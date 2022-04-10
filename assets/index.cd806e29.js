@@ -1,0 +1,1 @@
+import{_ as o,d as s,c as t,a as r,b as _,o as n}from"./index.62533477.js";const a={class:"progress-container"},c=s({setup(p){return(d,i)=>{const e=_("m-progress");return n(),t("div",a,[r(e,{type:"circle",percentage:60,isAnimation:!0})])}}});var l=o(c,[["__scopeId","data-v-2ebd2035"]]);export{l as default};

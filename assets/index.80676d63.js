@@ -1,0 +1,1 @@
+import{d as a,f as c,b as s,o as r}from"./index.62533477.js";const p=a({setup(t){const o=e=>{console.log("\u{1F680} ~ file: index.vue ~ line 11 ~ changeArea ~ result",e)};return(e,_)=>{const n=s("m-choose-area");return r(),c(n,{onChange:o})}}});export{p as default};
